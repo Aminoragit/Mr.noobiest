@@ -11,7 +11,7 @@ print('='*40) #=
 
 print('len :', len(str1)) #문자열의 길이 length = len
 
-mylist = [3,6,.8, 0]
+mylist = [3,6,8,0]
 print('list len : ' , len(mylist))
 
 print(str1[0],str1[1],str1[-1]) ## -1대신 str1[len(str1)-1] 써도 됩니다.
