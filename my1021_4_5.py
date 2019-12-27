@@ -16,7 +16,7 @@ print('list len : ' , len(mylist))
 
 print(str1[0],str1[1],str1[-1]) ## -1대신 str1[len(str1)-1] 써도 됩니다.
 
-print(str1[:-1]) #분할연산(:)
+print(str1[:-1]) #분할연산(:) #결과값 : python i #-1전까지=마지막 단어 전까지 표시
 print(str1[1:4:1]) #확장 분할 연산(start:end:jump)
 
 print(str1[::-1]) #거꾸로
